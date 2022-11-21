@@ -1,0 +1,2 @@
+**/*.test.{tsx,ts,js,jsx}
+**/serverTypes*.ts
